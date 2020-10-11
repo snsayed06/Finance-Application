@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Finance-Application/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Finance-Application/static/js/main.cd526676.chunk.js",
+    "main.js.map": "/Finance-Application/static/js/main.cd526676.chunk.js.map",
+    "runtime-main.js": "/Finance-Application/static/js/runtime-main.c136d961.js",
+    "runtime-main.js.map": "/Finance-Application/static/js/runtime-main.c136d961.js.map",
+    "static/js/2.76b0decc.chunk.js": "/Finance-Application/static/js/2.76b0decc.chunk.js",
+    "static/js/2.76b0decc.chunk.js.map": "/Finance-Application/static/js/2.76b0decc.chunk.js.map",
+    "index.html": "/Finance-Application/index.html",
+    "precache-manifest.42f1ecdf269810862c2fd20085390bdb.js": "/Finance-Application/precache-manifest.42f1ecdf269810862c2fd20085390bdb.js",
+    "service-worker.js": "/Finance-Application/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Finance-Application/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.76b0decc.chunk.js.LICENSE.txt": "/Finance-Application/static/js/2.76b0decc.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/Finance-Application/static/media/svg-1.715313cd.svg",
+    "static/media/svg-2.svg": "/Finance-Application/static/media/svg-2.4a122f73.svg",
+    "static/media/svg-3.svg": "/Finance-Application/static/media/svg-3.d9e440a5.svg",
+    "static/media/svg-5.svg": "/Finance-Application/static/media/svg-5.494b2abd.svg",
+    "static/media/video.mp4": "/Finance-Application/static/media/video.72ed5715.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c136d961.js",
+    "static/js/2.76b0decc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cd526676.chunk.js"
+  ]
+}
