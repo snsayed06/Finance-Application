@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Preview](Bank.png?raw=true)
+
+## Description
+
+A small application that is implemented using HTML5, CSS3, JavaScript, React, React-Scroll. It is mobile responsive so that it can be used on multiple screens. Along with it has Authentication which can authenticate users and display various latest offers provided by the bank, and users can enroll itself in any of the various schemes.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
